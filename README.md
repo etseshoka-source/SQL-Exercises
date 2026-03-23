@@ -1,2 +1,5 @@
 # SQL-Exercises
-Excercises to test knowledge
+
+##Aim
+Applying the knowledge learnt during class
+
